@@ -1,392 +1,67 @@
-# Change Log
+# Mediumish Jekyll Theme - Change Log
 
-All notable changes to this project will be documented in this file.
-See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+## 2019-05-16, v1.0.36
+- docker-composer.yml
+- better responsiveness for 1920x1080 resolution
 
-## [1.1.12](https://github.com/LekoArts/gatsby-themes/compare/minimal-blog@1.1.11...minimal-blog@1.1.12) (2020-07-04)
+## 2019-04-02, v1.0.35
+- Fixed Github pages issue with ratings under 1
+- Added support for local avatars
 
-**Note:** Version bump only for package minimal-blog
+## 2019-03-22, v1.0.34
+- Deferred font awesome and google fonts
 
+## 2019-03-22, v1.0.33
+- Added image lazy load (config.yml - lazyimages: "enabled/disabled")
+- Added object cover images instead of background images for home featured cards
+- Removed disqus count from homepage for better performance
 
+## 2019-03-20, v1.0.32
+- Centered avatar image on smaller devices
+- Removed .html endings in cats/tags
+- Added Linkedin share 
+- Added Table of Contents (toc:true)
+- Added Paragraph before TOC (beforetoc: "My short description here")
 
 
+## 2019-03-20, v1.0.31
+- Added adsense support (activate via _config.yml)
+- Fixed share for large headers
 
-## [1.1.11](https://github.com/LekoArts/gatsby-themes/compare/minimal-blog@1.1.10...minimal-blog@1.1.11) (2020-07-03)
+## 2019-03-20, v1.0.30
+- Added Tags support
+- Removed Google + sharing, no longer needed
 
-**Note:** Version bump only for package minimal-blog
+## 2019-03-01, v1.0.29
+- Fixed Jumbotron categories link
 
+## 2019-03-01, v1.0.28
+- Added blurred text on spoilers
+- Added half stars for ratings
 
+## 2019-03-01, v1.0.27
+- Reveal hidden spoilers on click
+- Syntax line numbers
+- Post rating stars
+- Fixed category links with more than 1 word
 
+## 2019-02-14
+- Fixed Feed site title not showing
+- Added 404 page
 
+## 2019-02-10
+- Fixed CSS Jumbotron categories
 
-## [1.1.10](https://github.com/LekoArts/gatsby-themes/compare/minimal-blog@1.1.9...minimal-blog@1.1.10) (2020-07-02)
+## 2019-02-09
+- Fixed Category links are now compatible with Github pages. Archive still available for non Github pages.
+- Added Search
+- Added SEO
 
-**Note:** Version bump only for package minimal-blog
+## 2018-11-08
+- Fixed reponsive footer jumbotron for tags
 
+## 2018-11-07
+- Added external image support
 
-
-
-
-## [1.1.9](https://github.com/LekoArts/gatsby-themes/compare/minimal-blog@1.1.8...minimal-blog@1.1.9) (2020-06-11)
-
-
-### Bug Fixes
-
-* Normalize CSS in themes & examples ([#422](https://github.com/LekoArts/gatsby-themes/issues/422)) ([9a2600c](https://github.com/LekoArts/gatsby-themes/commit/9a2600cc45d0f6729799183116f1b87d3c943749))
-
-
-
-
-
-## [1.1.8](https://github.com/LekoArts/gatsby-themes/compare/minimal-blog@1.1.7...minimal-blog@1.1.8) (2020-06-11)
-
-
-### Bug Fixes
-
-* **gatsby-theme-minimal-blog:** font-size on mobile iOS ([#421](https://github.com/LekoArts/gatsby-themes/issues/421)) ([ab65ecc](https://github.com/LekoArts/gatsby-themes/commit/ab65ecceaabefc0f2f77c6f9602280a7214c34d1))
-
-
-
-
-
-## [1.1.7](https://github.com/LekoArts/gatsby-themes/compare/minimal-blog@1.1.6...minimal-blog@1.1.7) (2020-06-08)
-
-**Note:** Version bump only for package minimal-blog
-
-
-
-
-
-## [1.1.6](https://github.com/LekoArts/gatsby-themes/compare/minimal-blog@1.1.5...minimal-blog@1.1.6) (2020-05-29)
-
-**Note:** Version bump only for package minimal-blog
-
-
-
-
-
-## [1.1.5](https://github.com/LekoArts/gatsby-themes/compare/minimal-blog@1.1.4...minimal-blog@1.1.5) (2020-05-12)
-
-**Note:** Version bump only for package minimal-blog
-
-
-
-
-
-## [1.1.4](https://github.com/LekoArts/gatsby-themes/compare/minimal-blog@1.1.3...minimal-blog@1.1.4) (2020-05-04)
-
-**Note:** Version bump only for package minimal-blog
-
-
-
-
-
-## [1.1.3](https://github.com/LekoArts/gatsby-themes/compare/minimal-blog@1.1.2...minimal-blog@1.1.3) (2020-05-02)
-
-**Note:** Version bump only for package minimal-blog
-
-
-
-
-
-## [1.1.2](https://github.com/LekoArts/gatsby-themes/compare/minimal-blog@1.1.1...minimal-blog@1.1.2) (2020-05-02)
-
-**Note:** Version bump only for package minimal-blog
-
-
-
-
-
-## [1.1.1](https://github.com/LekoArts/gatsby-themes/compare/minimal-blog@1.1.0...minimal-blog@1.1.1) (2020-04-28)
-
-**Note:** Version bump only for package minimal-blog
-
-
-
-
-
-# [1.1.0](https://github.com/LekoArts/gatsby-themes/compare/minimal-blog@1.0.17...minimal-blog@1.1.0) (2020-04-27)
-
-
-### Features
-
-* Update theme-ui to v0.3.x ([#371](https://github.com/LekoArts/gatsby-themes/issues/371)) ([67a05ac](https://github.com/LekoArts/gatsby-themes/commit/67a05ac3e1deaddfe38591739e7f50f56d49d109)), closes [/theme-ui.com/migrating#v03](https://github.com//theme-ui.com/migrating/issues/v03) [#262](https://github.com/LekoArts/gatsby-themes/issues/262)
-
-
-
-
-
-## [1.0.17](https://github.com/LekoArts/gatsby-themes/compare/minimal-blog@1.0.16...minimal-blog@1.0.17) (2020-04-24)
-
-**Note:** Version bump only for package minimal-blog
-
-
-
-
-
-## [1.0.16](https://github.com/LekoArts/gatsby-themes/compare/minimal-blog@1.0.15...minimal-blog@1.0.16) (2020-04-24)
-
-**Note:** Version bump only for package minimal-blog
-
-
-
-
-
-## [1.0.15](https://github.com/LekoArts/gatsby-themes/compare/minimal-blog@1.0.14...minimal-blog@1.0.15) (2020-04-13)
-
-**Note:** Version bump only for package minimal-blog
-
-
-
-
-
-## [1.0.14](https://github.com/LekoArts/gatsby-themes/compare/minimal-blog@1.0.13...minimal-blog@1.0.14) (2020-04-13)
-
-**Note:** Version bump only for package minimal-blog
-
-
-
-
-
-## [1.0.13](https://github.com/LekoArts/gatsby-themes/compare/minimal-blog@1.0.12...minimal-blog@1.0.13) (2020-04-12)
-
-**Note:** Version bump only for package minimal-blog
-
-
-
-
-
-## [1.0.12](https://github.com/LekoArts/gatsby-themes/compare/minimal-blog@1.0.11...minimal-blog@1.0.12) (2020-04-12)
-
-**Note:** Version bump only for package minimal-blog
-
-
-
-
-
-## [1.0.11](https://github.com/LekoArts/gatsby-themes/compare/minimal-blog@1.0.10...minimal-blog@1.0.11) (2020-04-12)
-
-**Note:** Version bump only for package minimal-blog
-
-
-
-
-
-## [1.0.10](https://github.com/LekoArts/gatsby-themes/compare/minimal-blog@1.0.9...minimal-blog@1.0.10) (2020-04-01)
-
-**Note:** Version bump only for package minimal-blog
-
-
-
-
-
-## [1.0.9](https://github.com/LekoArts/gatsby-themes/compare/minimal-blog@1.0.8...minimal-blog@1.0.9) (2020-03-31)
-
-**Note:** Version bump only for package minimal-blog
-
-
-
-
-
-## [1.0.8](https://github.com/LekoArts/gatsby-themes/compare/minimal-blog@1.0.7...minimal-blog@1.0.8) (2020-03-04)
-
-**Note:** Version bump only for package minimal-blog
-
-
-
-
-
-## [1.0.7](https://github.com/LekoArts/gatsby-themes/compare/minimal-blog@1.0.6...minimal-blog@1.0.7) (2020-03-04)
-
-**Note:** Version bump only for package minimal-blog
-
-
-
-
-
-## [1.0.6](https://github.com/LekoArts/gatsby-themes/compare/minimal-blog@1.0.5...minimal-blog@1.0.6) (2020-02-29)
-
-**Note:** Version bump only for package minimal-blog
-
-
-
-
-
-## [1.0.5](https://github.com/LekoArts/gatsby-themes/compare/minimal-blog@1.0.4...minimal-blog@1.0.5) (2020-02-29)
-
-
-### Bug Fixes
-
-* Add table styles to minimal-blog ([6e3d750](https://github.com/LekoArts/gatsby-themes/commit/6e3d750b01d0398fc2dd5b3d043754389a0f46ff))
-
-
-
-
-
-## [1.0.4](https://github.com/LekoArts/gatsby-themes/compare/minimal-blog@1.0.3...minimal-blog@1.0.4) (2020-02-27)
-
-**Note:** Version bump only for package minimal-blog
-
-
-
-
-
-## [1.0.3](https://github.com/LekoArts/gatsby-themes/compare/minimal-blog@1.0.2...minimal-blog@1.0.3) (2020-02-27)
-
-**Note:** Version bump only for package minimal-blog
-
-
-
-
-
-## [1.0.2](https://github.com/LekoArts/gatsby-themes/compare/minimal-blog@1.0.1...minimal-blog@1.0.2) (2020-02-16)
-
-**Note:** Version bump only for package minimal-blog
-
-
-
-
-
-## [1.0.1](https://github.com/LekoArts/gatsby-themes/compare/minimal-blog@1.0.0...minimal-blog@1.0.1) (2020-01-23)
-
-**Note:** Version bump only for package minimal-blog
-
-
-
-
-
-# [1.0.0](https://github.com/LekoArts/gatsby-themes/compare/minimal-blog@0.2.1...minimal-blog@1.0.0) (2020-01-23)
-
-
-### Features
-
-* Change config format on minimal-blog theme ([#234](https://github.com/LekoArts/gatsby-themes/issues/234)) ([bdeb670](https://github.com/LekoArts/gatsby-themes/commit/bdeb670797da5faa2d4084c3c128f0e38dbbf582))
-
-
-### BREAKING CHANGES
-
-* The navigation and externalLinks options are no longer on the siteMetadata but now in the theme options itself.
-
-
-
-
-
-## [0.2.1](https://github.com/LekoArts/gatsby-themes/compare/minimal-blog@0.2.0...minimal-blog@0.2.1) (2020-01-17)
-
-**Note:** Version bump only for package minimal-blog
-
-
-
-
-
-# [0.2.0](https://github.com/LekoArts/gatsby-themes/compare/minimal-blog@0.1.8...minimal-blog@0.2.0) (2020-01-07)
-
-
-### Features
-
-* **gatsby-theme-minimal-blog-core:** Custom slug for blog posts via frontmatter ([05cff1e](https://github.com/LekoArts/gatsby-themes/commit/05cff1ec0bcd2ba2fb3b7cfbb8a55f626ab9abd8)), closes [#217](https://github.com/LekoArts/gatsby-themes/issues/217)
-
-
-
-
-
-## [0.1.8](https://github.com/LekoArts/gatsby-themes/compare/minimal-blog@0.1.7...minimal-blog@0.1.8) (2020-01-06)
-
-
-### Bug Fixes
-
-* **gatsby-theme-minimal-blog:** Styling fixes ([240571e](https://github.com/LekoArts/gatsby-themes/commit/240571e39a4b12d6b6585c89062579dd2dc03a0f))
-
-
-
-
-
-## [0.1.7](https://github.com/LekoArts/gatsby-themes/compare/minimal-blog@0.1.6...minimal-blog@0.1.7) (2020-01-04)
-
-**Note:** Version bump only for package minimal-blog
-
-
-
-
-
-## [0.1.6](https://github.com/LekoArts/gatsby-themes/compare/minimal-blog@0.1.5...minimal-blog@0.1.6) (2020-01-03)
-
-**Note:** Version bump only for package minimal-blog
-
-
-
-
-
-## [0.1.5](https://github.com/LekoArts/gatsby-themes/compare/minimal-blog@0.1.4...minimal-blog@0.1.5) (2019-12-31)
-
-**Note:** Version bump only for package minimal-blog
-
-
-
-
-
-## [0.1.4](https://github.com/LekoArts/gatsby-themes/compare/minimal-blog@0.1.3...minimal-blog@0.1.4) (2019-12-03)
-
-**Note:** Version bump only for package minimal-blog
-
-
-
-
-
-## [0.1.3](https://github.com/LekoArts/gatsby-themes/compare/minimal-blog@0.1.2...minimal-blog@0.1.3) (2019-12-01)
-
-**Note:** Version bump only for package minimal-blog
-
-
-
-
-
-## [0.1.2](https://github.com/LekoArts/gatsby-themes/compare/minimal-blog@0.1.1...minimal-blog@0.1.2) (2019-11-27)
-
-**Note:** Version bump only for package minimal-blog
-
-
-
-
-
-## [0.1.1](https://github.com/LekoArts/gatsby-themes/compare/minimal-blog@0.1.0...minimal-blog@0.1.1) (2019-11-26)
-
-**Note:** Version bump only for package minimal-blog
-
-
-
-
-
-# [0.1.0](https://github.com/LekoArts/gatsby-themes/compare/minimal-blog@0.0.4...minimal-blog@0.1.0) (2019-11-25)
-
-
-### Features
-
-* **gatsby-theme-minimal-blog:** Lazy load code component ([#167](https://github.com/LekoArts/gatsby-themes/issues/167)) ([fbfedee](https://github.com/LekoArts/gatsby-themes/commit/fbfedee5988636d2e4a3a2ea817e8bdf8628d4f5)), closes [#161](https://github.com/LekoArts/gatsby-themes/issues/161) [#163](https://github.com/LekoArts/gatsby-themes/issues/163) [#164](https://github.com/LekoArts/gatsby-themes/issues/164) [#165](https://github.com/LekoArts/gatsby-themes/issues/165) [#166](https://github.com/LekoArts/gatsby-themes/issues/166)
-
-
-
-
-
-## [0.0.4](https://github.com/LekoArts/gatsby-themes/compare/minimal-blog@0.0.3...minimal-blog@0.0.4) (2019-11-16)
-
-**Note:** Version bump only for package minimal-blog
-
-
-
-
-
-## [0.0.3](https://github.com/LekoArts/gatsby-themes/compare/minimal-blog@0.0.2...minimal-blog@0.0.3) (2019-11-16)
-
-**Note:** Version bump only for package minimal-blog
-
-
-
-
-
-## 0.0.2 (2019-11-16)
-
-
-### Features
-
-* Add gatsby-theme-minimal-blog ([#151](https://github.com/LekoArts/gatsby-themes/issues/151)) ([344a52c](https://github.com/LekoArts/gatsby-themes/commit/344a52c))
+## 2018-09-12
+- Added option to disable comments in a specific post with `comments: false` in YAML front matter
