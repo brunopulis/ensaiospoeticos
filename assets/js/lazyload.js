@@ -107,7 +107,7 @@
       el.src = src;
     }
     if (dlazyload) {
-      el.setAttribute('data-lazyloaded','');
+      el.setAttribute('data-lazyloaded', '');
       el.removeEventListener('load', _loaded);
       _removeDataAttrs(el);
     }
@@ -213,11 +213,11 @@
     if (checkType === 'old') {
       try {
         cancelAnimationFrame(frameLoop);
-      } catch(err) {}
+      } catch (err) { }
     } else if (checkType === 'new') {
       try {
         observer.disconnect();
-      } catch(err) {}
+      } catch (err) { }
     }
     // grab elements to lazy load
     els = _htmlCollectionToArray(document.querySelectorAll(options.elements));
@@ -232,13 +232,13 @@
    * @public
    * @param {object} options (see readme)
    */
-  var lazyLoad = function(opts) {
-    for(var item in opts) {
-      if(opts.hasOwnProperty(item)) {
+  var lazyLoad = function (opts) {
+    for (var item in opts) {
+      if (opts.hasOwnProperty(item)) {
         options[item] = opts[item];
       }
     }
-    if(!('addEventListener' in window) || !window.requestAnimationFrame || typeof document.body.getBoundingClientRect === undefined) {
+    if (!('addEventListener' in window) || !window.requestAnimationFrame || typeof document.body.getBoundingClientRect === 'undefined') {
       checkType = 'really-old';
     } else if ('IntersectionObserver' in window) {
       checkType = 'new';
