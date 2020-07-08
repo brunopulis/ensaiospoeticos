@@ -1,12 +1,16 @@
 ---
 layout: post
-title: Bobo da Corte
+title: "Bobo da Corte"
 date: '2008-04-21T01:19:00.000-03:00'
 author: brunopulis
 categories: poesia
 tags: [amor, sentimentos]
-image: assets/images/posts/bobo.jpg
+image: assets/images/posts/bobo.webp
 description: "Aonde anda o verdadeiro amor? Como alcança-lo? Talvez ele seja alguém e não tão abstrato quanto pensamos."
+license:
+  author: "Uriel Soberanes"
+  url: "https://unsplash.com/@soberanes"
+alternative_text: "Imagem preto em branco com um homem fantasiado de palhaço tocando um violino. Fundo da imagem desfocado"
 featured: false
 hidden: true
 ---

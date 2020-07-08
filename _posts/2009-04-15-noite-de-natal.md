@@ -4,7 +4,7 @@ title:  "Noite de Natal"
 author: brunopulis
 categories: contos
 tags: natal
-image: assets/images/posts/natal.jpg
+image: assets/images/posts/natal.webp
 description: "My review of Inception movie. Acting, plot and something else in this short description."
 featured: false
 ---
