@@ -4,8 +4,12 @@ title:  "A fábula de uma rosa"
 author: brunopulis
 categories: contos
 tags: rosas
-image: assets/images/posts/rosa.jpg
-description: "My review of Inception movie. Acting, plot and something else in this short description."
+image: assets/images/posts/rosa.webp
+description: "Um conto sobre como diversas vezes procuramos coisas extradionárias em lugares distantes e como a vida pode nos surpreender."
+license:
+  author: "Thought Catalog"
+  url: "https://unsplash.com/@thoughtcatalog"
+alternative_text: "O fundo da imagem é um colchão com um livro aberto e três botões de rosas vermelhas. Está escrito na página aberta: você não está errado porque não está certo para alguém, você foi incompatível não está quebrado"
 featured: true
 hidden: true
 ---

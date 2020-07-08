@@ -4,8 +4,12 @@ title: "Pensamentos Relutantes"
 author: brunopulis
 categories: poesia
 tags: [pensamentos, contradição]
-image: assets/images/posts/pensamentos.jpg
+image: assets/images/posts/pensamentos.webp
 description: "Aonde anda o verdadeiro amor? Como alcança-lo? Talvez ele seja alguém e não tão abstrato quanto pensamos."
+license:
+  author: "Andy Li"
+  url: "https://unsplash.com/@andasta"
+alternative_text: "Mulher de cabelos pretos, vestida com uma blusa preta sentada em um banco de madeira marrom de frente para o mar, contemplando a paisagem."
 featured: false
 hidden: true
 ---

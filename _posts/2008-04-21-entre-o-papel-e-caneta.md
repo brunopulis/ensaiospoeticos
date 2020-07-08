@@ -1,12 +1,16 @@
 ---
 layout: post
-title: Entre o papel e a caneta
+title: "Entre o papel e a caneta"
 date: '2008-04-21T00:35:00.000-03:00'
 author: brunopulis
 categories: poesia
 tags: [amor, sentimentos]
-image: assets/images/posts/bobo.jpg
+image: assets/images/posts/papel.webp
 description: "O que seria do poeta sem o papel e a caneta? O músico sem o instrumento? O que seria de mim sem você"
+license:
+  author: "Aaron Burden"
+  url: "https://unsplash.com/@aaronburden"
+alternative_text: "Caneta de ponta fina de tinta preta, escrevendo em um caderno. Fundo desfocado"
 featured: false
 hidden: true
 ---

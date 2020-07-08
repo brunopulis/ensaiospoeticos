@@ -1,12 +1,16 @@
 ---
 layout: post
-title: Meus Versos
+title: "Meus Versos"
 date: '2008-12-27T21:02:00.000-02:00'
 author: brunopulis
 categories: poesia
 tags: rimas
-image: assets/images/posts/rosa.jpg
+image: assets/images/posts/verses.webp
 description: "Meus verso, rimas pobres. Pedaços de uma nostalgia sem fim..."
+license:
+  author: "Patrick Fore"
+  url: "https://unsplash.com/@patrickian4"
+alternative_text: "Mesa de madeira com cor escura, a direita uma máquina de escrever em cima da mesa."
 featured: false
 hidden: true
 ---
