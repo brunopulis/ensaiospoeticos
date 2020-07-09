@@ -2,11 +2,15 @@
 layout: post
 title: Dizer te amo
 date: '2013-09-08T02:09:00.001-03:00'
-author: Bruno Pulis
-tags: 
-modified_time: '2013-09-08T12:39:32.237-03:00'
-blogger_id: tag:blogger.com,1999:blog-2777827520959390561.post-2135685322029006195
-blogger_orig_url: http://brunopullis.blogspot.com/2013/09/dizer-te-amo.html
+author: brunopulis
+categories: poesia
+tags: [amor, despedidas]
+image: assets/images/posts/pensamentos.webp
+description: "Aonde anda o verdadeiro amor? Como alcança-lo? Talvez ele seja alguém e não tão abstrato quanto pensamos."
+license:
+  author: "Andy Li"
+  url: "https://unsplash.com/@andasta"
+alternative_text: "Mulher de cabelos pretos, vestida com uma blusa preta sentada em um banco de madeira marrom de frente para o mar, contemplando a paisagem."
 ---
 
 Minha dificuldade de dizer eu te amo é realidade <br />
