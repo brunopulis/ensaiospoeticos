@@ -1,23 +1,17 @@
-# Mediumish - Jekyll Theme
+# Ensaios Poéticos
 
-[Live Demo](https://wowthemesnet.github.io/mediumish-theme-jekyll/) &nbsp; | &nbsp; [Download](https://github.com/wowthemesnet/mediumish-theme-jekyll/archive/master.zip) &nbsp; | &nbsp; [Documentation](https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/) &nbsp; | &nbsp; [Buy me a coffee](https://www.wowthemes.net/donate/)
+Projeto de poesia autoral, criado e mantido por [Bruno Pulis](https://instagram.com/brunopulis).
 
-![mediumish](assets/images/mediumish-jekyll-template.png)
+Tem o intuito de compartilhar poesia e reflexões com as pesoas, para aliviar a alma e trazer alento para todos.
 
+Esse projeto é protegido pela lei de direitos autorais 9.610/98.
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/1204692/87079454-7b228280-c1fc-11ea-96ff-9eb0cd1cc67a.png" alt="Ensaios Poéticos">
+</p>
 
 ### Copyright
 
-Copyright (C) 2019 Sal, https://www.wowthemes.net
+Copyright (C) 2020 Ensaios Poéticos, https://ensaiospoeticos.com.br
 
-**Mediumish for Jekyll** is designed and developed by [Sal](https://www.wowthemes.net) and it is *free* under MIT license. 
-
-<a href="https://www.wowthemes.net/donate/" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
-
-### Contribute
-
-1. [Fork the repo](https://github.com/wowthemesnet/mediumish-theme-jekyll).
-2. Clone a copy of your fork on your local
-3. Create a branch off of master and give it a meaningful name (e.g. my-new-mediumish-feature).
-4. Make necessary changes, commit, push and open a pull request on GitHub.
-
-Thank you!
+**Ensaios Poéticos** foi desenvolvido com o tema **Mediumish for Jekyll** por [Sal](https://www.wowthemes.net).
