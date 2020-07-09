@@ -12,7 +12,6 @@ license:
   url: "https://unsplash.com/@aaronburden"
 alternative_text: "Caneta de ponta fina de tinta preta, escrevendo em um caderno. Fundo desfocado"
 featured: false
-hidden: true
 ---
 
 O que seria do poeta sem o papel e a caneta? <br />

@@ -12,7 +12,6 @@ license:
   url: "https://unsplash.com/@patrickian4"
 alternative_text: "Mesa de madeira com cor escura, a direita uma máquina de escrever em cima da mesa."
 featured: false
-hidden: true
 ---
 
 Meus versos são rimas pobres.<br />

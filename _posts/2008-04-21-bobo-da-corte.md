@@ -12,7 +12,6 @@ license:
   url: "https://unsplash.com/@soberanes"
 alternative_text: "Imagem preto em branco com um homem fantasiado de palhaço tocando um violino. Fundo da imagem desfocado"
 featured: false
-hidden: true
 ---
 
 Andei por tantos lugares, por tantos lugares andei. <br />
