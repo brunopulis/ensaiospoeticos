@@ -11,7 +11,6 @@ license:
   url: "https://unsplash.com/@andasta"
 alternative_text: "Mulher de cabelos pretos, vestida com uma blusa preta sentada em um banco de madeira marrom de frente para o mar, contemplando a paisagem."
 featured: false
-hidden: true
 ---
 
 Ainda que tudo de errado... <br/>

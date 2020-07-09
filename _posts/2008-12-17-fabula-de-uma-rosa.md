@@ -11,7 +11,6 @@ license:
   url: "https://unsplash.com/@thoughtcatalog"
 alternative_text: "O fundo da imagem é um colchão com um livro aberto e três botões de rosas vermelhas. Está escrito na página aberta: você não está errado porque não está certo para alguém, você foi incompatível não está quebrado"
 featured: true
-hidden: true
 ---
 
 Existia um certo homem, que cultivava flores raras ele viajava pela sua procura. <br />

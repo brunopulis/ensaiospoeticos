@@ -2,12 +2,29 @@
 layout: post
 title: A falta que faz
 date: '2013-01-13T03:14:00.000-02:00'
-author: Bruno Pulis
-tags: 
-modified_time: '2013-01-18T18:41:51.891-02:00'
-blogger_id: tag:blogger.com,1999:blog-2777827520959390561.post-4923092688781760769
-blogger_orig_url: http://brunopullis.blogspot.com/2013/01/a-falta-que-faz.html
+author: brunopulis
+categories: poesia
+tags: [saudade, sentimento]
+description: "Aonde anda o verdadeiro amor? Como alcança-lo? Talvez ele seja alguém e não tão abstrato quanto pensamos."
 ---
 
-Pouco tempo tem, mas enorme é a falta que faz...
-Motivos já não tenho</span></div><div style="-webkit-tap-highlight-color: rgba(26, 26, 26, 0.294118); line-height: 24px;"><span style="font-family: inherit;">Acho que tudo vai passar</span></div><div style="-webkit-tap-highlight-color: rgba(26, 26, 26, 0.294118); line-height: 24px;"><span style="font-family: inherit;"><br /></span></div><div style="-webkit-tap-highlight-color: rgba(26, 26, 26, 0.294118); line-height: 24px;"><span style="font-family: inherit;">Mas esse falta &nbsp;que faz</span></div><div style="-webkit-tap-highlight-color: rgba(26, 26, 26, 0.294118); line-height: 24px;"><span style="font-family: inherit;">Não tem como explicar.</span></div><div style="-webkit-tap-highlight-color: rgba(26, 26, 26, 0.294118); line-height: 24px;"><span style="font-family: inherit;"><br /></span></div><div style="-webkit-tap-highlight-color: rgba(26, 26, 26, 0.294118); line-height: 24px;"><span style="font-family: inherit;">Teus rastros em várias partes,</span></div><div style="-webkit-tap-highlight-color: rgba(26, 26, 26, 0.294118); line-height: 24px;"><span style="font-family: inherit;">Parte que me parte o coração</span></div><div style="-webkit-tap-highlight-color: rgba(26, 26, 26, 0.294118); line-height: 24px;"><span style="font-family: inherit;"><br /></span></div><div style="-webkit-tap-highlight-color: rgba(26, 26, 26, 0.294118); line-height: 24px;"><span style="font-family: inherit;">E me resta o que?</span></div><div style="-webkit-tap-highlight-color: rgba(26, 26, 26, 0.294118); line-height: 24px;"><span style="font-family: inherit;">A lembrança e uma saudade continua.</span></div><div style="-webkit-tap-highlight-color: rgba(26, 26, 26, 0.294118); line-height: 24px;"><span style="font-family: inherit;"><br /></span></div><div style="-webkit-tap-highlight-color: rgba(26, 26, 26, 0.294118); line-height: 24px;"><span style="font-family: inherit;">Não sei se isso terá um fim ou se será assim.</span></div><div style="-webkit-tap-highlight-color: rgba(26, 26, 26, 0.294118); line-height: 24px;"><span style="font-family: inherit;"><br /></span></div><div style="-webkit-tap-highlight-color: rgba(26, 26, 26, 0.294118); line-height: 24px;"><span style="font-family: inherit;">Mas caminhando vou,</span></div><div style="-webkit-tap-highlight-color: rgba(26, 26, 26, 0.294118); line-height: 24px;"><span style="font-family: inherit;">Ocultando a saudade que me mata por dentro num sorriso singelo.</span></div><div style="-webkit-tap-highlight-color: rgba(26, 26, 26, 0.294118); line-height: 24px;"><span style="font-family: inherit;"><br /></span></div><div style="-webkit-tap-highlight-color: rgba(26, 26, 26, 0.294118); line-height: 24px;"><span style="font-family: inherit;">E lembrando dessa falta que me faz.</span></div><div style="-webkit-composition-fill-color: rgba(130, 98, 83, 0.0976563); -webkit-composition-frame-color: rgba(191, 107, 82, 0.496094); -webkit-tap-highlight-color: rgba(26, 26, 26, 0.296875); font-family: Noteworthy; font-size: 18px; font-weight: bold; line-height: 24px;"><br /></div><div style="-webkit-composition-fill-color: rgba(130, 98, 83, 0.0976563); -webkit-composition-frame-color: rgba(191, 107, 82, 0.496094); -webkit-tap-highlight-color: rgba(26, 26, 26, 0.296875); font-family: Noteworthy; font-size: 18px; font-weight: bold; line-height: 24px;"></div><div style="-webkit-composition-fill-color: rgba(130, 98, 83, 0.0976563); -webkit-composition-frame-color: rgba(191, 107, 82, 0.496094); -webkit-tap-highlight-color: rgba(26, 26, 26, 0.296875); font-family: Noteworthy; font-size: 18px; font-weight: bold; line-height: 24px;"><br /></div>
+Pouco tempo tem, <br />
+mas enorme é a falta que faz...<br />
+Motivos já não tenho <br />
+Acho que tudo vai passar<br />
+
+Mas esse falta <br />
+que faz <br />
+Não tem como explicar.<br />
+Teus rastros em várias partes, <br />
+Parte que me parte o coração <br />
+
+E me resta o que? <br />
+A lembrança e uma saudade continua.<br />
+Não sei se isso terá um fim ou se será assim.<br />
+
+Mas caminhando vou, <br />
+ocultando a saudade, <br />
+que me mata por dentro,
+ num sorriso singelo.<br />
+ E lembrando dessa falta que me faz.
