@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/6bdefa0f-e7ab-4895-8c2e-83b331ad09c5/deploy-status)](https://app.netlify.com/sites/ensaiospoeticos/deploys)
+
 # Ensaios Poéticos
 
 Projeto de poesia autoral, criado e mantido por [Bruno Pulis](https://instagram.com/brunopulis).
