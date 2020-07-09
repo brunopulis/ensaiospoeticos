@@ -2,11 +2,15 @@
 layout: post
 title: Mau degenerativo
 date: '2013-09-08T02:04:00.001-03:00'
-author: Bruno Pulis
-tags:
-modified_time: '2013-09-08T12:31:28.975-03:00'
-blogger_id: tag:blogger.com,1999:blog-2777827520959390561.post-5874706766942255637
-blogger_orig_url: http://brunopullis.blogspot.com/2013/09/mau-degenerativo.html
+author: brunopulis
+categories: poesia
+tags: [amor, despedidas]
+image: assets/images/posts/pensamentos.webp
+description: "Aonde anda o verdadeiro amor? Como alcança-lo? Talvez ele seja alguém e não tão abstrato quanto pensamos."
+license:
+  author: "Andy Li"
+  url: "https://unsplash.com/@andasta"
+alternative_text: "Mulher de cabelos pretos, vestida com uma blusa preta sentada em um banco de madeira marrom de frente para o mar, contemplando a paisagem."
 ---
 
 Mau degenerativo,
