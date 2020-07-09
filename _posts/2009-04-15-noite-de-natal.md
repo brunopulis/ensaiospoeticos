@@ -5,7 +5,7 @@ author: brunopulis
 categories: contos
 tags: natal
 image: assets/images/posts/natal.webp
-description: "My review of Inception movie. Acting, plot and something else in this short description."
+description: "O conto de noite de natal, onde tudo parecia estar perdido e o inesperado acontece e aquece os corações"
 featured: false
 ---
 
