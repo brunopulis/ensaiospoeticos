@@ -42,11 +42,16 @@
             alt="{{ author.display_name }}">
           {% endif %}
         </span>
+
         <span class="author-meta">
           <span class="post-name"><a target="_blank" href="{{ author.web }}">{{ author.display_name }}</a></span><br />
           {% endif %}
-          <span class="post-date">{{ post.date | date_to_string }}</span>
+          <span class="post-date">
+            {% include date.html %}
+            {{ post.date | date_to_string | date: "%-d, %Y" }}
+          </span>
         </span>
+
         <span class="post-read-more">
           <a href="{{ site.baseurl }}{{ post.url }}">
             <span class="sr-only">Leia o poema: {{ post.title }}</span>

@@ -2,25 +2,53 @@
 name: "Ensaios Poéticos"
 title: "Ensaios Póeticos"
 description: "Escrevo por necessidade e compartilho o que sinto."
-logo: "assets/images/logo.png"
-favicon: "assets/images/logo.png"
-baseurl:
-google_analytics: "UA-46278016-1"
+logo: "assets/images/logo-fb.jpg"
+favicon: "assets/images/logo-fb.jpg"
+baseurl: ""
+google_analytics: "UA-172101670-1"
 disqus: "ensaiospoeticos"
 mailchimp-list: "https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b"
 include: ["_pages"]
-permalink: /:title/
+
+# Outputting
+permalink: /:categories/:title/
+paginate: 6
+paginate_path: /page:num/
+timezone: America/Sao_Paulo # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 # Authors
 authors:
   brunopulis:
     name: Bruno Pulis
     display_name: Bruno Pulis
-    gravatar: e56154546cf4be74e393c62d1ae9f9d4
+    gravatar: 590371c05fc56adf612fd91ea509cf74
     email: bruno.pulis@gmail.com
     web: https://brunopulis.com
+    instagram: https://instagram.com/brunopulis
     twitter: https://twitter.com/obrunopulis
     description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
+
+# SEO Related
+
+google_site_verification: DPRiq7o08iixPBvtAW6pRBU418mjKPAw8VMlLnf1p7c
+bing_site_verification: D0C7C2231284A67C088C1646CF113477
+yandex_site_verification: 25fc138bfebfbb1b
+
+# Social Midia
+social:
+  links:
+    - label: "Instagram"
+    - icon: "fab fa-instagram"
+    - url: "https://instagram.com/oensaiospoeticos"
+    - label: "Facebook"
+    - icon: "fab fa-facebook"
+    - url: "https://facebook.com/EnsaiosPoeticos"
+    - label: "Twitter"
+    - icon: "fab fa-twitter"
+    - url: "https://twitter.com/oensaiospoetico"
+    - label: "Medium"
+    - icon: "fab fa-medium"
+    - url: "https://medium.com/@ensaiospoetico"
 
 # Plugins
 plugins:
@@ -38,9 +66,12 @@ jekyll-archives:
   permalinks:
     category: "/category/:name/"
 
-# Pagination
-paginate: 6
-paginate_path: /page:num/
+# HTML Compression
+# - https://jch.penibelst.de/
+compress_html:
+  clippings: all
+  ignore:
+    envs: development
 
 # Other
 markdown: kramdown
