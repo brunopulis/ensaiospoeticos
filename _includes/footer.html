@@ -1,0 +1,91 @@
+<footer class="footer">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-4 col-sm-4">
+        <h2>Mapa do site</h2>
+        <ul class="navbar-nav ml-auto">
+          {% if page.url == "/" %}
+          <li class="nav-item active">
+            {% else %}
+          <li class="nav-item">
+            {% endif %}
+            <a href="{{ site.baseurl }}/index.html" class="nav-link" lang="en">Home</a>
+          </li>
+
+          <li class="nav-item">
+            <a href="{{ site.baseurl }}/about" class="nav-link">Sobre</a>
+          </li>
+
+          <li class="nav-item">
+            <a href="{{ site.baseurl }}/contact" class="nav-link">Contato</a>
+          </li>
+
+          <li class="nav-item">
+            <a href="{{ site.baseurl }}/accessibility" class="nav-link">Acessibilidade</a>
+          </li>
+
+          <li class="nav-item">
+            <a href="{{ site.baseurl }}/policy-privacy" class="nav-link">Política de Privacidade</a>
+          </li>
+        </ul>
+      </div>
+
+      <div class="col-md-4 col-sm-4">
+        <h2>Redes Sociais</h2>
+
+        <ul class="navbar-nav ml-auto">
+          <li class="nav-item">
+            <a href="https://instagram.com/oensaiospoeticos" target="_blank" rel="noopener noreferrer" class="nav-link">
+              <span class="fab fa-instagram" aria-hidden="true"></span>
+              Instagram <span class="sr-only">(abre em uma nova aba do navegador)</span>
+            </a>
+          </li>
+
+          <li class="nav-item">
+            <a href="https://facebook.com/EnsaiosPoeticos" target="_blank" rel="noopener noreferrer" class="nav-link">
+              <span class="fab fa-facebook" aria-hidden="true"></span>
+              Facebook <span class="sr-only">(abre em uma nova aba do navegador)</span>
+            </a>
+          </li>
+
+          <li class="nav-item">
+            <a href="https://twitter.com/oensaiospoetico" target="_blank" rel="noopener noreferrer" class="nav-link">
+              <span class="fab fa-twitter" aria-hidden="true"></span>
+              Twitter <span class="sr-only">(abre em uma nova aba do navegador)</span>
+            </a>
+          </li>
+
+          <li class="nav-item">
+            <a href="https://medium.com/@ensaiospoeticos" target="_blank" rel="noopener noreferrer" class="nav-link">
+              <span class="fab fa-medium" aria-hidden="true"></span>
+              Medium <span class="sr-only">(abre em uma nova aba do navegador)</span>
+            </a>
+          </li>
+
+          <li class="nav-item">
+            <a href="{{ site.baseurl }}/feed.xml" target="_blank" rel="noopener noreferrer" class="nav-link">
+              <span class="fas fa-fw fa-rss-square" aria-hidden="true"></span>
+              Feed <span class="sr-only">(abre em uma nova aba do navegador)</span>
+            </a>
+          </li>
+        </ul>
+      </div>
+
+      <div class="col-md-4 col-sm-4">
+        <h2>Redes Sociais</h2>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="col-md-6 col-sm-6 text-center text-lg-left">
+        <p>Copyright © {{ site.time | date: "%Y" }} {{ site.name }}</p>
+      </div>
+
+      <div class="col-md-6 col-sm-6 text-center text-lg-right">
+        <a target="_blank" href="https://www.wowthemes.net/mediumish-free-jekyll-template/">Mediumish
+          Jekyll Theme</a> por <span lang="en">WowThemes.net</span>
+      </div>
+    </div>
+  </div>
+  </div>
+</footer>
