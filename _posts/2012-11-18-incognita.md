@@ -2,11 +2,45 @@
 layout: post
 title: Incógnita
 date: '2012-11-18T12:54:00.003-02:00'
-author: Bruno Pulis
-tags: 
-modified_time: '2012-11-18T12:54:46.005-02:00'
-blogger_id: tag:blogger.com,1999:blog-2777827520959390561.post-2502270176409605158
-blogger_orig_url: http://brunopullis.blogspot.com/2012/11/incognita.html
+author: brunopulis
+categories: poesia
 ---
 
-<br /><br /><span style="font-family: Cambria, Georgia, serif;"><span style="line-height: 22px;">Dizem por ai,&nbsp;</span></span><br /><span style="font-family: Cambria, Georgia, serif;"><span style="line-height: 22px;">que somos bons amigos,&nbsp;</span></span><br /><span style="font-family: Cambria, Georgia, serif;"><span style="line-height: 22px;">outros dizem que há algo mais...</span></span><br /><span style="font-family: Cambria, Georgia, serif;"><span style="line-height: 22px;"><br /></span></span><span style="font-family: Cambria, Georgia, serif;"><span style="line-height: 22px;">afinal o que somos?&nbsp;</span></span><br /><span style="font-family: Cambria, Georgia, serif;"><span style="line-height: 22px;">incógnita eu diria...</span></span><br /><span style="font-family: Cambria, Georgia, serif;"><span style="line-height: 22px;"><br /></span></span><span style="font-family: Cambria, Georgia, serif;"><span style="line-height: 22px;">Como em uma função,&nbsp;</span></span><br /><span style="font-family: Cambria, Georgia, serif;"><span style="line-height: 22px;">complexo demais pra resolver em única linha.&nbsp;</span></span><br /><span style="font-family: Cambria, Georgia, serif;"><span style="line-height: 22px;">complexo para falar, simples pra sentir...</span></span><br /><span style="font-family: Cambria, Georgia, serif;"><span style="line-height: 22px;"><br /></span></span><span style="font-family: Cambria, Georgia, serif;"><span style="line-height: 22px;">A resposta?&nbsp;</span></span><br /><span style="font-family: Cambria, Georgia, serif;"><span style="line-height: 22px;">Sentimento.&nbsp;</span></span><br /><span style="font-family: Cambria, Georgia, serif;"><span style="line-height: 22px;">de querer bem,&nbsp;</span></span><br /><span style="font-family: Cambria, Georgia, serif;"><span style="line-height: 22px;">estar bem,&nbsp;</span></span><br /><span style="font-family: Cambria, Georgia, serif;"><span style="line-height: 22px;">de ser meu bem...</span></span><br /><span style="font-family: Cambria, Georgia, serif;"><span style="line-height: 22px;"><br /></span></span><span style="font-family: Cambria, Georgia, serif;"><span style="line-height: 22px;">Porque contigo as leis da inércia,&nbsp;</span></span><br /><span style="font-family: Cambria, Georgia, serif;"><span style="line-height: 22px;">parecem não funcionar tem o efeito oposto.</span></span><br /><span style="font-family: Cambria, Georgia, serif;"><span style="line-height: 22px;">A relação de tempo e espaço se encurta,&nbsp;</span></span><br /><span style="font-family: Cambria, Georgia, serif;"><span style="line-height: 22px;">quando se vê já se foi e a saudade logo fica.&nbsp;</span></span><br /><span style="font-family: Cambria, Georgia, serif;"><span style="line-height: 22px;"><br /></span></span><span style="font-family: Cambria, Georgia, serif;"><span style="line-height: 22px;">aperta o peito parece sufocar,&nbsp;</span></span><br /><span style="font-family: Cambria, Georgia, serif;"><span style="line-height: 22px;">vontade sem fim.</span></span><br /><span style="font-family: Cambria, Georgia, serif;"><span style="line-height: 22px;">Talvez o fluxo deva ser assim&nbsp;</span></span><br /><span style="font-family: Cambria, Georgia, serif;"><span style="line-height: 22px;">variável inconstante.</span></span><br /><span style="font-family: Cambria, Georgia, serif;"><span style="line-height: 22px;"><br /></span></span><span style="font-family: Cambria, Georgia, serif;"><span style="line-height: 22px;">Inconstância de querer por perto,&nbsp;</span></span><br /><span style="font-family: Cambria, Georgia, serif;"><span style="line-height: 22px;">saber como são teus dias,&nbsp;</span></span><br /><span style="font-family: Cambria, Georgia, serif;"><span style="line-height: 22px;">querendo se embriagar.</span></span><br /><span style="font-family: Cambria, Georgia, serif;"><span style="line-height: 22px;"><br /></span></span><span style="font-family: Cambria, Georgia, serif;"><span style="line-height: 22px;">Ora sofrendo por mordidas,&nbsp;</span></span><br /><span style="font-family: Cambria, Georgia, serif;"><span style="line-height: 22px;">caindo em abraços,&nbsp;</span></span><br /><span style="font-family: Cambria, Georgia, serif;"><span style="line-height: 22px;">gestos simples,&nbsp;</span></span><br /><span style="font-family: Cambria, Georgia, serif;"><span style="line-height: 22px;">sorrindo de tolices,&nbsp;</span></span><br /><span style="font-family: Cambria, Georgia, serif;"><span style="line-height: 22px;">se sentindo real.</span></span><br /><span style="font-family: Cambria, Georgia, serif;"><span style="line-height: 22px;"><br /></span></span><span style="font-family: Cambria, Georgia, serif;"><span style="line-height: 22px;">O tempo passando,&nbsp;</span></span><br /><span style="font-family: Cambria, Georgia, serif;"><span style="line-height: 22px;">você partindo e a saudade logo matando.</span></span><br /><span style="font-family: Cambria, Georgia, serif;"><span style="line-height: 22px;"><br /></span></span><span style="font-family: Cambria, Georgia, serif;"><span style="line-height: 22px;"><br /></span></span><span style="font-family: Cambria, Georgia, serif;"><span style="line-height: 22px;">@brunopulis</span></span><br /><br />
+Dizem por ai,que somos bons amigos,outros dizem que há algo mais...<br />
+afinal o que somos?incógnita eu diria...<br />
+Como em uma função, <br />
+complexo demais pra resolver em única linha. <br />
+
+complexo para falar, <br />
+simples pra sentir...<br />
+
+A resposta? Sentimento. <br />
+de querer bem, <br />
+estar bem, <br />
+de ser meu bem...<br />
+
+Porque contigo as leis da inércia, <br />
+parecem não funcionar tem o efeito oposto.<br />
+
+A relação de tempo e espaço se encurta,<br />
+quando se vê já se foi e a saudade logo fica.<br />
+
+aperta o peito parece sufocar,<br />
+vontade sem fim.<br />
+
+Talvez o fluxo deva ser assim,<br />
+variável inconstante.<br />
+
+Inconstância de querer por perto, <br />
+saber como são teus dias, <br />
+querendo se embriagar.<br />
+
+Ora sofrendo por mordidas, <br />
+caindo em abraços, <br />
+gestos simples, <br />
+
+sorrindo de tolices,<br />
+se sentindo real.<br />
+
+O tempo passando,<br />
+você partindo e a saudade logo matando.
