@@ -3,7 +3,7 @@ layout: post
 title: Conclusão
 date: '2010-11-16T23:31:00.001-02:00'
 author: brunopulis
-categories: poesias
+categories: poesia
 tags: amor
 ---
 
