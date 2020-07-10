@@ -3,7 +3,7 @@ layout: post
 title: Meu microcosmo
 date: '2010-11-11T00:49:00.001-02:00'
 author: brunopulis
-categories: poesias
+categories: poesia
 ---
 
 Não tente entender minha loucura por ela é somente minha de mais ninguém.<br />

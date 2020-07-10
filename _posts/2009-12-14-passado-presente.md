@@ -3,7 +3,7 @@ layout: post
 title: "Passado-Presente"
 date: '2009-12-14T16:10:00.004-02:00'
 author: brunopulis
-categories: poesias
+categories: poesia
 ---
 
 Passado do meu pretérito meu futuro quase-perfeito...<br />

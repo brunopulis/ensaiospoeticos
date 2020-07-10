@@ -3,7 +3,7 @@ layout: post
 title: "Ode a criação"
 date: '2010-11-11T01:05:00.000-02:00'
 author: brunopulis
-categories: poesias
+categories: poesia
 ---
 
 Minha vida por vezes é um teatro, <br />

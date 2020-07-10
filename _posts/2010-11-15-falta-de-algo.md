@@ -3,7 +3,7 @@ layout: post
 title: A falta de algo
 date: '2010-11-15T16:22:00.000-02:00'
 author: brunopulis
-categories: poesias
+categories: poesia
 ---
 
 Falta algo dentro de mim...<br />
